@@ -1,1 +1,35 @@
+{
+  "europe": [
+    {
+      "frequency": 868100000,
+      "sf": 7,
+      "data_rate": 5
+    },
+    {
+      "frequency": 868300000,
+      "sf": 8,
+      "data_rate": 5
+    },
+    {
+      "frequency": 868500000,
+      "sf": 9,
+      "data_rate": 5
+    },
+    {
+      "frequency": 868700000,
+      "sf": 10,
+      "data_rate": 5
+    },
+    {
+      "frequency": 868900000,
+      "sf": 11,
+      "data_rate": 5
+    },
+    {
+      "frequency": 869100000,
+      "sf": 12,
+      "data_rate": 5
+    }
+  ]
+}
 
